@@ -15,7 +15,6 @@ Whether you're a newcomer to RC cars or an experienced hobbyist, this book has s
 <br/>
 &nbsp;   • 🔧 Veterans will appreciate the low-cost, highly customizable design. With the ability to reprint and rebuild the chassis at will, experimenting with motors, ESCs, servos, RX/TX units, tires, and filaments becomes easier than ever.
 <br/>
-<br/>
 
 📘 What You'll Learn:
 <br/>
