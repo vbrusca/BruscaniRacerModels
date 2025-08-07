@@ -2,8 +2,13 @@
 The official repository for the book, "How to 3D Print and Build Your Own RC Race Car".
 <br/>
 
-<img src="images/book_cover.jpg" alt="Book Cover" width="70%"/>
+<img src="images/book_cover.jpg" alt="Book Cover" width="50%"/>
 <br/>
+by:
+<br/>
+Victor G. Brusca
+<br/>
+Carlo Bruscani
 
 ## Description
 Master the art of building and customizing your own remote control race car — one part at a time.
