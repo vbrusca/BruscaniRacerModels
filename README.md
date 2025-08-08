@@ -1,96 +1,76 @@
-\#\*\* Bruscani Racer Models \*\*
-
+# \*\* Bruscani Racer Models \*\*
 The official repository for the book, "How to 3D Print and Build Your Own RC Race Car".
-
 <br/>
 
-
-
-!\[How to 3D Print and Build Your Own RC Race Car](images/book\_cover.jpg)
-
+<img src="images/book_cover.jpg" alt="Book Cover" width="50%"/>
 <br/>
+by:
+<br/>
+Victor G. Brusca
+<br/>
+Carlo Bruscani
 
-
-
-\##Description
-
+## Description
 Master the art of building and customizing your own remote control race car — one part at a time.
-
 This step-by-step guide is your complete blueprint to 3D printing, assembling, and powering the Bruscani Racer — a fast, customizable, and fully functional RC car built with off-the-shelf parts and a 3D-printed chassis you make yourself.
 
-
-
 Whether you're a newcomer to RC cars or an experienced hobbyist, this book has something for you:
-
+<br/>
 &nbsp;   • 📦 Beginners will be guided through the entire build process — from printing the chassis to wiring up the electronics — gaining the knowledge and confidence to become self-sufficient RC car builders.
-
-
-
+<br/>
 &nbsp;   • 🔧 Veterans will appreciate the low-cost, highly customizable design. With the ability to reprint and rebuild the chassis at will, experimenting with motors, ESCs, servos, RX/TX units, tires, and filaments becomes easier than ever.
+<br/>
 
 📘 What You'll Learn:
-
+<br/>
 &nbsp;   • How to 3D print and assemble the Bruscani Racer chassis
-
+<br/>
 &nbsp;   • How to install and wire up the powertrain, including motor, battery, ESC, receiver, and servo
-
+<br/>
 &nbsp;   • How to source affordable, off-the-shelf RC parts
-
-&nbsp;   • How to repair or rebuild your car anytime — no special tools or proprietary parts required
-
-
+<br/>
+&nbsp;   • How to repair or rebuild your car anytime
+<br/>
 
 This book is more than a build manual — it's a launchpad into the world of customizable RC racing. Once you build your first Bruscani Racer, you'll have the tools, skills, and freedom to create, iterate, and race on your own terms.
+<br/>
 
-
-
-\#Example Builds
-
+# Example Builds
 Here are a few example builds demonstrating the flexibility of the car's design.
 
-
-
-\##The Mean Green
-
-!\[Mean Green 1](images/mean\_green\_1\_fin.jpg)
-
+## The Mean Green
+<img src="images/mean_green_1_fin.jpg" alt="Mean Green 1" width="70%"/>
 <br/>
 
-
-
-!\[Mean Green 2](images/mean\_green\_2\_fin.jpg)
-
+<img src="images/mean_green_2_fin.jpg" alt="Mean Green 2" width="70%"/>
 <br/>
 
-
-
-\##The Acula
-
-!\[Acula 1](images/acula\_1\_fin.jpg)
-
+## The Acula
+<img src="images/acula_1_fin.jpg" alt="Acula 1" width="70%"/>
 <br/>
 
-
-
-!\[Acula 2](images/acula\_2\_fin.jpg)
-
+<img src="images/acula_2_fin.jpg" alt="Acula 2" width="70%"/>
 <br/>
 
-
-
-\##The Cammo Truggy
-
-!\[Acula 1](images/bumper\_up\_close.jpg)
-
+## The Cammo Truggy
+<img src="images/bumper_up_close.jpg" alt="Truggy 1" width="70%"/>
 <br/>
 
-
-
-!\[Acula 2](images/finished\_car.jpg)
-
+<img src="images/finished_car.jpg" alt="Truggy 2" width="70%"/>
 <br/>
 
+## Internals and Errata
+<img src="images/front_wheels_measure_steering_push_rods_4.jpg" alt="Step 6" width="70%"/>
+<br/>
 
+<img src="images/end_of_step_6.jpg" alt="End of Step 6 v1" width="70%"/>
+<br/>
 
+<img src="images/step_6_complete_fin_2.jpg" alt="End of Step 6 v2" width="70%"/>
+<br/>
 
+<img src="images/car_with_bumpers_and_body_shell_supports.jpg" alt="End of Step 8 v1" width="70%"/>
+<br/>
 
+<img src="images/alternate_config_body_supports_1_fin.jpg" alt="End of Step 8 v2" width="70%"/>
+<br/>
