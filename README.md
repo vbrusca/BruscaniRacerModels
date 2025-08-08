@@ -2,7 +2,7 @@
 The official repository for the book, "How to 3D Print and Build Your Own RC Race Car".
 <br/>
 
-<img src="images/book_cover.jpg" alt="Book Cover" width="50%"/>
+<a href="https://www.amazon.com/dp/B0FLN7YXK4/ref=sr_1_1?crid=3FX28SM71M6UU&dib=eyJ2IjoiMSJ9.R7AYUbtp98nn9gJqvC8iOpwaHkhlDekMvi5zRaq-tTAR8JWRpjmkxLH28Cm6X2QISBX4lKaF3uNkrIGcnYcpRhz_hQUYTx891dbqSJwbgDPB6Vnzz8pCL2FwLhn8qhamWcCTuOMaovX2fT1thkpIuA.LBgexhxP_26t2Wjcsm5EbWE_tnvWr1-eNz9EOMwcxPU&dib_tag=se&keywords=how+to+3d+print+and+build+your+own&qid=1754671920&sprefix=how+to+3d+print+and+build+your+own%2Caps%2C82&sr=8-1" target="_blank"><img src="images/book_cover.jpg" alt="Book Cover" width="50%"/></a>
 <br/>
 by:
 <br/>
